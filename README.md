@@ -1,4 +1,4 @@
-# ng-repo.github.io
+https://rajeshkumarsah.github.io/ndemo/
 My ang app 
 
 Make sure you have Node.js® and npm installed.
